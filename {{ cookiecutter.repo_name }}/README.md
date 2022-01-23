@@ -17,7 +17,7 @@ Project Organization
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
     │
-    ├── artifacts          <- Trained and serialized models, model predictions, or model summaries
+    ├── artifacts          <- Trained and serialized models, vectorizers, encoders, tokenizers, etc.
     │
     ├── experiments        <- Jupyter notebooks. Naming convention is a number (for ordering),
     │                         the creator's initials, and a short `-` delimited description, e.g.
@@ -46,4 +46,4 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>, but  using <a target="_blank" href="https://github.com/heisguyy/cookiecutter-data-science">Olajide Oluwatosin's modification of the original template.</a>
