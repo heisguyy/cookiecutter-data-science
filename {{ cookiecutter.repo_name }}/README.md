@@ -29,12 +29,12 @@ Project Structure
     ├── .env                    <- Contains environmental variables like app secrets. This file should not
     │                              be committed or pushed.
     ├── .gitignore              <- List of files to avoid committing/pushing to the local and remote git repo.
-    ├── .pre-commit-config.yaml <- 
-    ├── LICENSE                 <- Makefile with commands like `make data` or `make train`
+    ├── .pre-commit-config.yaml <- Configurations of checks to run before a commit is accepted.
+    ├── LICENSE                 <- Permissions for the public on the use/distribution of the repo/project.
     ├── Makefile                <- Makefile with commands like `make requirements`.
     ├── README.md               <- The top-level README for developers using this project.
     ├── pyproject.toml          <- Makefile with commands like `make data` or `make train`
-    └── requirements.txt        <- Makefile with commands like `make data` or `make train`
+    └── requirements.txt        <- List of libraries/packages and their versions required for the project.
 
 
 --------
